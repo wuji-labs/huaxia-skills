@@ -5,7 +5,11 @@
 **Ten gifts the Chinese stream of wisdom offers to the world's open-source community.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![skills](https://img.shields.io/badge/skills-10-c1272d)](#the-ten)
+[![install](https://img.shields.io/badge/install-one%20command-2ea44f)](#install-the-whole-family--one-command)
 &nbsp;·&nbsp; English &nbsp;|&nbsp; [简体中文](#简体中文)
+
+*Bilingual (EN · 简体中文) · MIT · sources cited by book and chapter · benchmark numbers from real runs only, never pre-filled.*
 
 </div>
 
