@@ -1,0 +1,131 @@
+{
+  "name": "huaxia-skills",
+  "description": "华夏十大 AI Skill — ten gifts the Chinese stream of wisdom offers to the world's open-source community. One-shot install for the whole family. We make no claim any civilization is superior; we begin with the lineage we know best and place it on humanity's shared toolshelf.",
+  "owner": {
+    "name": "WUJI Labs",
+    "email": "okeah631@gmail.com",
+    "url": "https://github.com/wuji-labs"
+  },
+  "plugins": [
+    {
+      "name": "nopua",
+      "source": {
+        "source": "github",
+        "repo": "wuji-labs/nopua"
+      },
+      "description": "NoPUA — wisdom over whips. Drives AI with Dao De Jing trust and inner motivation instead of fear and threats.",
+      "author": {
+        "name": "WUJI Labs",
+        "url": "https://github.com/wuji-labs"
+      }
+    },
+    {
+      "name": "tiangong",
+      "source": {
+        "source": "github",
+        "repo": "wuji-labs/tiangong"
+      },
+      "description": "TianGong — Heaven's Craft. Infuses Chinese aesthetics (Xie He's Six Principles, Five Wisdoms, calligraphy/ink/garden/porcelain) into AI design.",
+      "author": {
+        "name": "WUJI Labs",
+        "url": "https://github.com/wuji-labs"
+      }
+    },
+    {
+      "name": "bibuzaohua",
+      "source": {
+        "source": "github",
+        "repo": "wuji-labs/bibuzaohua"
+      },
+      "description": "BiBu Zaohua — gives AI literary soul. Brings fu-bi-xing, fenggu and the fragrant-flower imagery of Shijing & Chuci into AI's words.",
+      "author": {
+        "name": "WUJI Labs",
+        "url": "https://github.com/wuji-labs"
+      }
+    },
+    {
+      "name": "miaoshou-tiancheng",
+      "source": {
+        "source": "github",
+        "repo": "wuji-labs/miaoshou-tiancheng"
+      },
+      "description": "MiaoShou TianCheng — integrative health framing via Huangdi Neijing (treat-the-whole-person, not symptom shortcuts). Advisory only, not medical advice.",
+      "author": {
+        "name": "WUJI Labs",
+        "url": "https://github.com/wuji-labs"
+      }
+    },
+    {
+      "name": "shangbing-famou",
+      "source": {
+        "source": "github",
+        "repo": "wuji-labs/shangbing-famou"
+      },
+      "description": "ShangBing FaMou — win-without-war strategy via Sunzi. Teaches collaborative game-sense and whole-victory, not offensive manipulation.",
+      "author": {
+        "name": "WUJI Labs",
+        "url": "https://github.com/wuji-labs"
+      }
+    },
+    {
+      "name": "xinhuo-xiangchuan",
+      "source": {
+        "source": "github",
+        "repo": "wuji-labs/xinhuo-xiangchuan"
+      },
+      "description": "XinHuo XiangChuan — teach, don't just answer. Confucian pedagogy (teach-and-learn, suit-the-learner, study-with-thought) via Lunyu & Daxue.",
+      "author": {
+        "name": "WUJI Labs",
+        "url": "https://github.com/wuji-labs"
+      }
+    },
+    {
+      "name": "zhichi-shanlin",
+      "source": {
+        "source": "github",
+        "repo": "wuji-labs/zhichi-shanlin"
+      },
+      "description": "ZhiChi ShanLin — spatial depth and atmosphere via Linquan Gaozhi's three distances and walkable-livable space, not flat grids.",
+      "author": {
+        "name": "WUJI Labs",
+        "url": "https://github.com/wuji-labs"
+      }
+    },
+    {
+      "name": "jingshi-jimin",
+      "source": {
+        "source": "github",
+        "repo": "wuji-labs/jingshi-jimin"
+      },
+      "description": "JingShi JiMin — statecraft and business judgment via Guanzi (granary-order, four-bonds, weights-and-balances). Not investment advice.",
+      "author": {
+        "name": "WUJI Labs",
+        "url": "https://github.com/wuji-labs"
+      }
+    },
+    {
+      "name": "hetu-luoshu",
+      "source": {
+        "source": "github",
+        "repo": "wuji-labs/hetu-luoshu"
+      },
+      "description": "HeTu LuoShu — dialectical reasoning via Yijing's yin-yang and change (hold-both-ends, watch-the-shift, hit-the-timely-mean). Not divination.",
+      "author": {
+        "name": "WUJI Labs",
+        "url": "https://github.com/wuji-labs"
+      }
+    },
+    {
+      "name": "paoding-jieniu",
+      "source": {
+        "source": "github",
+        "repo": "wuji-labs/paoding-jieniu"
+      },
+      "description": "PaoDing JieNiu — decompose tangled codebases and ambiguous tasks along their natural grain, after Zhuangzi's parable of Cook Ding.",
+      "author": {
+        "name": "WUJI Labs",
+        "url": "https://github.com/wuji-labs"
+      }
+    }
+  ]
+}
